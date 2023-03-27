@@ -1,0 +1,30 @@
+#navbar{
+    width: 100%;
+    min-height: 100px;
+    background-color: var(--navbar-bg-color);
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo > img{
+    width: 100px;
+    height: 100%;
+}
+
+#navbar-items{
+    height: inherit;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#navbar-items li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 15px;
+    display: inline-block;
+    align-items: center;
+    border-radius: 15px;
+    margin:  10px;
+    background-color: var(--btn-bg-color);
+    color: var(--btn-color);
+}
