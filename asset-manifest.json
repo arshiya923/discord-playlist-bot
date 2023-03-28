@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/discord-playlist-bot/static/css/main.599f1cff.css",
+    "main.js": "/discord-playlist-bot/static/js/main.4bd87310.js",
+    "index.html": "/discord-playlist-bot/index.html",
+    "main.599f1cff.css.map": "/discord-playlist-bot/static/css/main.599f1cff.css.map",
+    "main.4bd87310.js.map": "/discord-playlist-bot/static/js/main.4bd87310.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.599f1cff.css",
+    "static/js/main.4bd87310.js"
+  ]
+}
