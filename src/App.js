@@ -1,12 +1,14 @@
 import React from 'react'
+import Navbar from './Components/Navbar/Navbar'
+import MainContent from './Components/MainContent/MainContent'
 
 import './App.css'
-import Navbar from './Components/Navbar/Navbar'
 
 const App = () => {
 	return(
 		<div>
 			<Navbar />
+			<MainContent />
 		</div>
 	)
 }
